@@ -21,4 +21,4 @@ Velkommen til GitHub-profilen min. Jeg bygger prosjekter innen:
 ## 📬 Kontakt
 
 - 📧 audun.hedstein@gmail.com  
-- 🌐[https://www.linkedin.com/in/audun-h-189550106/](https://www.linkedin.com/in/audun-h-189550106/)
+- 🌐 [https://www.linkedin.com/in/audun-h-189550106/](https://www.linkedin.com/in/audun-h-189550106/)
