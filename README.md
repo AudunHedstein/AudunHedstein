@@ -10,13 +10,10 @@ Velkommen til GitHub-profilen min. Jeg bygger prosjekter innen:
 ## 🚀 Pågående prosjekt
 
 🔗 [mobilavtaler.no](https://mobilavtaler.no) – sammenligner mobilabonnement for norske forbrukere. Bygget med Next.js, Tailwind, og AI.
-🔗   https://mobiltelefoni.carrd.co/
-
-🔗   https://sites.google.com/view/hms-hjelperen-tilgangsside/start
-
-🔗   https://www.mobiltelemarketing.no/
-
-🔗   https://www.mediatelemarketing.no/
+🔗   https://mobiltelefoni.carrd.co/ - Få tilbud på mobilavtaler skreddersydd deg
+🔗   https://sites.google.com/view/hms-hjelperen-tilgangsside/start - Forside til HMS-GPT bygget i chatGPT og en mappestruktur
+🔗   https://www.mobiltelemarketing.no/ - Nettside bygget til selskap jeg er Controller / Partner i.
+🔗   https://www.mediatelemarketing.no/ - Nettside bygget til selskap jegg er ansatt i som Controller.
 
 ## 🧰 Verktøy jeg bruker
 
