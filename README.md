@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hei! Jeg er Audun Hedstein
 
-<!--
-**AudunHedstein/AudunHedstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Velkommen til GitHub-profilen min. Jeg bygger prosjekter innen:
 
-Here are some ideas to get you started:
+- 📱 Mobilabonnement og digital salgsteknologi
+- 📊 Automatisering og CRM-systemer
+- 💻 Moderne web (Next.js, Tailwind, TypeScript)
+- 🤖 AI-verktøy for markedsføring og kundeservice
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Pågående prosjekt
+
+🔗 [mobilavtaler.no](https://mobilavtaler.no) – sammenligner mobilabonnement for norske forbrukere. Bygget med Next.js, Tailwind, og AI.
+
+## 🧰 Verktøy jeg bruker
+
+- Next.js, React, Tailwind CSS
+- TypeScript, Git, VS Code
+- Copilot, ChatGPT, Zapier
+- Microsoft 365 + Brevo for automasjon
+
+## 📬 Kontakt
+
+- 📧 audun.hedstein@gmail.com  
+- 🌐[(https://www.linkedin.com/in/audun-h-189550106/](https://www.linkedin.com/in/audun-h-189550106/)
