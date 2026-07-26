@@ -19,6 +19,10 @@ Velkommen til GitHub-profilen min. Jeg bygger prosjekter innen:
 
 🔗   https://www.mediatelemarketing.no/ - Nettside bygget til selskap jegg er ansatt i som Controller.
 
+🔗   https://pizzaiolo.pplx.app/ - Nettside/app for alt innen pizza: beregne perfekt deig, tilpasse oppskrifter til ovn og mel, lagre egne oppskrifter og få hjelp til baking og kreativ topping.
+
+https://pizzaiolo.pplx.app/
+
 ## 🧰 Verktøy jeg bruker
 
 - Next.js, React, Tailwind CSS
