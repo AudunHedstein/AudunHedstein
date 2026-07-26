@@ -13,6 +13,8 @@ Velkommen til GitHub-profilen min. Jeg bygger prosjekter innen:
 
 🔗   https://mobiltelefoni.carrd.co/ - Få tilbud på mobilavtaler skreddersydd deg
 
+🔗   https://www.sammenligneren.no/ Finn de beste tilbudene. Spar tusenvis av kroner.Vi sammenligner strøm, bank, forsikring, mobil og mer — slik at du alltid betaler riktig pris. Gratis, uavhengig og oppdatert daglig.
+
 🔗   https://sites.google.com/view/hms-hjelperen-tilgangsside/start - Forside til HMS-GPT bygget i chatGPT og en mappestruktur
 
 🔗   https://www.mobiltelemarketing.no/ - Nettside bygget til selskap jeg er Controller / Partner i.
