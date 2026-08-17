@@ -2,23 +2,35 @@
 
 Jeg bygger digitale produkter i skjæringspunktet mellom sammenligningstjenester, AI og automatisering. Jeg liker å starte med et tydelig problem, lansere en enkel fungerende versjon og forbedre den med ekte tilbakemeldinger.
 
-## Det jeg bygger nå
+## Heddun og prosjektene
+
+### [Heddun](https://audun-heddun-live.audunhedstein.chatgpt.site/)
+
+Min prosjektside for produktene, prototypene og arbeidsmåtene jeg utvikler.
 
 ### [Sammenligneren.no](https://www.sammenligneren.no)
 
 En norsk sammenligningstjeneste under utvikling. Målet er å gjøre det enklere å forstå alternativer, registrere behov og få relevante tilbud. Mobilabonnement er første kontrollerte pilotområde.
 
-### [Heddun](https://audun-heddun-live.audunhedstein.chatgpt.site/)
+### Heddun Brygg
 
-Min prosjektside for produktene, eksperimentene og arbeidsmåtene jeg utvikler.
+En prototype for å gjøre ideer og krevende arbeidsprosesser synlige, testbare og enklere å forbedre.
 
-### [Pour-It](https://github.com/AudunHedstein/pour-it)
+### [Pour It](https://github.com/AudunHedstein/pour-it)
 
-Et nytt digitalt produkt under utvikling. Prosjektet bygges trinnvis med fokus på en tydelig og testbar førsteversjon.
+Et digitalt produkt under utvikling, bygget trinnvis med fokus på en tydelig og testbar førsteversjon.
 
-### Formue-app
+### Formue
 
-Et produkt under utvikling. Det er foreløpig privat mens konsept, sikkerhet og brukerbehov blir avklart.
+En privat oversikt under utvikling. Prosjektet holdes foreløpig privat mens konsept, sikkerhet og brukerbehov blir avklart.
+
+### Ondr
+
+Et wellbeing-produkt under utvikling. Prosjektet utforsker hvordan digitale verktøy kan gjøre oppfølging enklere og mer nyttig.
+
+### [Pizzaiolo](https://pizzaiolo.pplx.app/)
+
+En prototype for pizzabaking: beregning av deig, tilpasning til ovn og mel, oppskrifter og hjelp gjennom bakeprosessen.
 
 ## Hvordan jeg arbeider
 
